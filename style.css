@@ -15,9 +15,14 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   background-color: rgb(177, 208, 255);
-  gap: 20px;
+  gap: 10px;
 }
 .drik {
-  border: solid blue;
-  margin: 20px;
+  padding: 30px;
+}
+.o2 {
+  background-color: rgb(107, 166, 255);
+}
+.o3 {
+  background-color: rgb(52, 132, 252);
 }
