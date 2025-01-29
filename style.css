@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+  align-self: stretch;
+  padding: 0rem;
+}
+
+.o1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: rgb(177, 208, 255);
+  gap: 20px;
+}
+.drik {
+  border: solid blue;
+  margin: 20px;
+}
